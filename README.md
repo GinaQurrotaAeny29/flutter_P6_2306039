@@ -1,7 +1,3 @@
-Berikut README yang bisa kamu gunakan untuk **Praktikum Modul 6 – Form dan Input Validation (Flutter)** sesuai dengan hasil tampilan pada gambar:
-
----
-
 # Praktikum Mobile – Pertemuan 6
 
 ## Form & Input Validation pada Flutter
